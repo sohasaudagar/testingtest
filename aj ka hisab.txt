@@ -3,4 +3,4 @@ aj ka hisab -1200
 1 ka hisab --1400
 2 ka hisab --1500
 hi
-hey
+swap
