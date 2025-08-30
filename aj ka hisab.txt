@@ -4,3 +4,4 @@ aj ka hisab -1200
 2 ka hisab --1500
 hi
 hei
+swap
